@@ -1,0 +1,2 @@
+Securitatea Informatiei 2021-2022 Tema 1
+Acest text va fi folosit pentru a demonstra modurile de criptare implementate in acest proiect
